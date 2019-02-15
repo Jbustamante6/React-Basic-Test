@@ -1,0 +1,26 @@
+.absolute-position{
+    position: absolute;
+    left: 130px;
+    top:35px;
+}
+.font{
+    font-size: 20px
+}
+
+.rotation-pos{
+    -ms-transform: rotate(30deg); /* IE 9 */
+  -webkit-transform: rotate(30deg); /* Safari 3-8 */
+  transform: rotate(30deg);
+}
+
+.rotation-neg{
+    -ms-transform: rotate(-30deg); /* IE 9 */
+  -webkit-transform: rotate(-30deg); /* Safari 3-8 */
+  transform: rotate(-30deg);
+}
+.absolute-small{
+    position: absolute;
+    left: 155px;
+    top:35px;
+
+}

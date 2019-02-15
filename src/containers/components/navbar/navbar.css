@@ -1,0 +1,26 @@
+.navbar-large{
+    min-height: 65px;
+}
+
+
+.button-brand{
+    width: 70px;
+    text-align: center; 
+    border-right: 1px solid #ccc;
+}
+
+.button-brand i{
+    font-size: 30px;
+    color: #007bff;
+}
+
+
+.icons-nav a i{
+    font-size: 20px;
+    color: #ccc
+}
+
+.profile-image{
+    width: 25px;
+    float: left;
+}
