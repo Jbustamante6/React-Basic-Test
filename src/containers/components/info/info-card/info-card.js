@@ -2,7 +2,6 @@ import React from 'react';
 import './info-card.css'
 
 const card = (props) => {   
-    console.log(props)
     let icon;
     let classes=['absolute-position', 'font' ,'fas'];
     let small = ['absolute-small']

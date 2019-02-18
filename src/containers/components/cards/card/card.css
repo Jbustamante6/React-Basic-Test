@@ -1,0 +1,57 @@
+.card-subtitle{
+    font-size: 12px;
+    font-weight: 100;
+    margin-bottom: 2px !important;
+}
+.card-title{
+    font-weight: 400;
+}
+
+h5 i{
+    font-size: 7px;
+}
+.members{
+    padding-left: 20px;
+    margin-bottom: 35px;
+ 
+}
+.members i{
+    font-size: 18px;
+    margin-left: -5px;
+    float: left;
+}
+
+.members p {
+    float: left;
+    margin-left: 5px;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.info i{
+    font-size: 20px;
+    width: 100%;
+}
+
+.info label{
+    font-size: 10px;
+    width: 100%;
+    font-weight: 100;
+    margin-bottom: 0px;
+}
+ .info p{
+    margin-bottom: 0px;
+    font-weight: 300;
+ }
+
+ .card {
+    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAASUlEQVQoU2NkQAMPbz/0BQnJq8pvRpZiROaAFMEUILNBauAK0SVAkshiYIXYFMFsgskx4lOErJh4hURbje4WXKFAevAgm4wtwAHjBEXfToyPUwAAAABJRU5ErkJggg==); 
+ }
+
+ .card .menu{
+    position: absolute;
+    top: 0;
+    right: 0px;
+    font-size: 20px;
+    cursor: pointer;
+ }
